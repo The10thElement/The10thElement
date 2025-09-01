@@ -4,7 +4,7 @@
 -->
 
 <!-- Wavey neon header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hello,%20I'm%20Syed Fasahat%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hello,%20I'm%20Syed%20Fasahat%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
