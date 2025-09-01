@@ -4,18 +4,18 @@
 -->
 
 <!-- Wavey neon header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Namaste,%20I'm%20YourName%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hello,%20I'm%20Syed Fasahat%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&width=600&lines=Information+Technology+Teacher+%7C+Crescent+English+School%2C+Latur;Guiding+students+to+code+%26+think+computationally;Project-based+learning+%E2%9A%A1+Ethical+%26+Responsible+tech;Always+learning+AI%2C+Cloud%2C+and+Modern+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&width=600&lines=Information+Technology+Teacher+%7C+Crescent+English+School%2C+Latur;Guiding+students+to+code+%26+think+computationally;Project-based+learning+%E2%9A%A1+Ethical+%26+Responsible+tech;Always+learning+AI%2C+Cloud%2C+and+Modern+Web" alt="Typing SVG" />
 
 <!-- subtle futuristic divider -->
 <br/>
 <img src="https://img.shields.io/badge/Focus-Teaching%20Tech%20that%20Matters-302b63?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Latur%2C%20Maharashtra-24243e?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&style=for-the-badge" />
+
 <br/><br/>
 
 <!-- Neon circuit animation (gif) -->
@@ -46,23 +46,12 @@
 - 📘 **Beginner Roadmap:** Variables → Loops → Functions → Projects  
 - 🧪 **Practice:** Write code daily; small problems → mini projects → portfolio  
 - ✅ **Golden Rule:** *“If you can explain it, you can code it.”*  
-- 📚 **Handy Links:**  
-  - Python: https://docs.python.org/3/  
-  - Web: https://developer.mozilla.org/  
-  - Git: https://git-scm.com/docs  
-  - Cyber Safety (Basics): https://staysafeonline.org/
+
 
 > 💬 Got questions? Open an **Issue** on any classroom repo or start a **Discussion**.
 
 ---
 
-### 🧩 Signature Classroom Projects
-- 🔐 **Password Strength Checker** (Python): strings, conditions, regex  
-- 📊 **Student Score Analyzer** (Python + CSV): file I/O, lists, stats  
-- 🌐 **My First Portfolio** (HTML/CSS/JS): layout, responsive design  
-- 🗄️ **Library Manager** (C++): structs/classes, vectors, file handling
-
----
 
 ### 📈 My GitHub Pulse
 <div align="center">
@@ -82,8 +71,7 @@
 ---
 
 ### 🌐 Connect
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-link/  
+- 📧 Email: fasahat95037@gmail.com
 - 🏫 School: Crescent English School, Latur
 
 ---
