@@ -15,7 +15,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Focus-Teaching%20Tech%20that%20Matters-302b63?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Latur%2C%20Maharashtra-24243e?style=for-the-badge" />
-
+  
 <br/><br/>
 
 <!-- Neon circuit animation (gif) -->
