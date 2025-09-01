@@ -4,12 +4,12 @@
 -->
 
 <!-- Wavey neon header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hello,%20I'm%20Syed Fasahat%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Namaste,%20I'm%20YourName%20👨‍🏫&fontSize=36&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&width=600&lines=Information+Technology+Teacher+%7C+Crescent+English+School%2C+Latur;Guiding+students+to+code+%26+think+computationally;Project-based+learning+%E2%9A%A1+Ethical+%26+Responsible+tech;Always+learning+AI%2C+Cloud%2C+and+Modern+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&width=600&lines=Information+Technology+Teacher+%7C+Crescent+English+School%2C+Latur;Guiding+students+to+code+%26+think+computationally;Project-based+learning+%E2%9A%A1+Ethical+%26+Responsible+tech;Always+learning+AI%2C+Cloud%2C+and+Modern+Web" alt="Typing SVG" />
 
 <!-- subtle futuristic divider -->
 <br/>
