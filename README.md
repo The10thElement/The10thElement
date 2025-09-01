@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- Neon circuit animation (gif) -->
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="700" alt="futuristic-banner"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 </div>
 
